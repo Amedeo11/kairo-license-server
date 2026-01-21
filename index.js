@@ -12,7 +12,7 @@ if (!SECRET) {
 
 // DATABASE FAKE (per ora)
 const licenses = {
-  "KAIRO-TEST-1234": {
+  "KAIRO-TEST-123": {
     revoked: false,
     expires: "2026-08-31",
     hwid: null
